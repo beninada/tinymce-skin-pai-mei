@@ -4,7 +4,7 @@
 
 A skin for the TinyMCE WYSIWYG editor that take on the aesthetics of Pai Mei from Kill Bill.
 
-# Installation
+## Installation
 1. Clone this repository.
 2. Download the development version of [TinyMCE](http://www.tinymce.com/download/download.php).
 3. Move the contents of this repository into the themes directory of TinyMCE.
